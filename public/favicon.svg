@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Background -->
+  <rect width="64" height="64" rx="14" fill="#1a2332"/>
+  <!-- Code brackets -->
+  <text x="32" y="42" text-anchor="middle" font-family="monospace, 'Courier New'" font-size="24" font-weight="700" fill="#12F7D6">&lt;ST/&gt;</text>
+  <!-- Accent line -->
+  <rect x="14" y="50" width="36" height="2.5" rx="1.25" fill="#12F7D6" opacity="0.5"/>
+</svg>
